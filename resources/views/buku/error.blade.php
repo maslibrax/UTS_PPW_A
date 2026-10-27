@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang="id"><head><meta charset="UTF-8"><title>Kesalahan</title></head><body><h1>Terjadi Kesalahan</h1><p>{{ $pesan }}</p><p><a href="/buku">Coba kembali</a></p></body></html>
